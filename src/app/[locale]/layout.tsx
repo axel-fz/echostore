@@ -7,21 +7,26 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { NextIntlClientProvider } from "next-intl";
 import { notFound } from "next/navigation";
 import { getMessages } from "next-intl/server";
-import { ClerkProvider } from '@clerk/nextjs'
+import { ClerkProvider } from '@clerk/nextjs';
+import { routing } from '@/i18n/routing'; // Add this import
 
 export const metadata: Metadata = {
   title: "Echo Store - Quality Products",
   description: "Your one-stop shop for quality products",
 };
 
+// This will now only generate 'en' and 'fr' based on your routing config
+export function generateStaticParams() {
+  return routing.locales.map((locale) => ({ locale }));
+}
+
 export default async function RootLayout({
   children,
   params,
 }: {
   children: React.ReactNode;
-  params: Promise<{ locale: string }>; // Changed: params is now a Promise
+  params: Promise<{ locale: string }>;
 }) {
-  // Await the params before using it
   const { locale } = await params;
   
   const messages = await getMessages();

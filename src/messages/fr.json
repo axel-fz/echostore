@@ -341,7 +341,6 @@
   "addto": "Ajouter au panier"
 },
 
-
   "productTabs": {
     "tabs": {
       "description": "Description",
@@ -402,8 +401,6 @@
   "processing": "Traitement...",
   "securePayment": "Paiement sécurisé via Stripe"
   },
-
-
 
   "aboutPage": {
     "heroTitle": "À propos d'Echo Store",
@@ -477,8 +474,6 @@
     }
   },
 
-
- 
   "productGrid": {
     "categories": {
       "all": "Tous",
@@ -492,17 +487,6 @@
     "noProducts": "Aucun produit trouvé",
     "tryAnother": "Essayez une autre catégorie ou un autre terme de recherche."
   }
-
-
-
-
-
-
-
-
-
-
-
 
 }
 
