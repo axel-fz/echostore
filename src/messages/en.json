@@ -1,0 +1,517 @@
+{
+  "Header": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "cart": "Shopping cart",
+    "menu": "Menu"
+  },
+
+  "Hero": {
+    "badge": "New Collection 2026",
+    "subtitle": "Where minimalist design meets premium quality. Elevate your everyday style.",
+    "shopNow": "Shop Now",
+
+    "stats": {
+      "products": "Products",
+      "categories": "Categories"
+    },
+
+    "categories": {
+      "tshirts": {
+        "name": "T-Shirts",
+        "description": "Premium cotton essentials"
+      },
+      "trousers": {
+        "name": "Trousers",
+        "description": "Tailored perfection"
+      },
+      "bags": {
+        "name": "Bags",
+        "description": "Carry in style"
+      }
+    }
+  },
+
+
+
+  "categories": {
+    "shirts": "Shirts",
+    "trousers": "Trousers",
+    "bags": "Bags"
+  },
+
+  "products": {
+    "echo_circles_tshirt": {
+      "name": "Echo Circles T-Shirt",
+      "description": "A comfortable t-shirt featuring the iconic Echo circles design."
+    },
+    "echo_hoodie": {
+      "name": "Echo Hoodie",
+      "description": "A cozy hoodie perfect for any season."
+    },
+    "echo_oversized_tee": {
+      "name": "Echo Oversized Tee",
+      "description": "Street-style oversized t-shirt."
+    },
+    "echo_vneck_tshirt": {
+      "name": "Echo V-Neck T-Shirt",
+      "description": "Classic v-neck design for everyday wear."
+    },
+    "echo_long_sleeve_shirt": {
+      "name": "Echo Long Sleeve Shirt",
+      "description": "Comfortable long sleeve for cooler weather."
+    },
+    "echo_polo_shirt": {
+      "name": "Echo Polo Shirt",
+      "description": "Smart casual polo with Echo branding."
+    },
+    "echo_classic_trousers": {
+      "name": "Echo Classic Trousers",
+      "description": "Comfort-fit trousers suitable for casual and smart wear."
+    },
+    "echo_slim_fit_trousers": {
+      "name": "Echo Slim Fit Trousers",
+      "description": "Modern slim-fit trousers with premium fabric."
+    },
+       "echo_drawstring_bag": {
+      "name": "Echo Drawstring Bag",
+      "description": "Lightweight drawstring bag for daily essentials."
+    },
+    "echo_canvas_tote_bag": {
+      "name": "Echo Canvas Tote Bag",
+      "description": "Reusable canvas tote bag with Echo branding."
+    },
+    "echo_backpack": {
+      "name": "Echo Backpack",
+      "description": "Durable backpack for work and travel."
+    },
+    "echo_messenger_bag": {
+      "name": "Echo Messenger Bag",
+      "description": "Professional messenger bag for everyday carry."
+    },
+    "echo_duffle_bag": {
+      "name": "Echo Duffle Bag",
+      "description": "Spacious duffle bag for gym and travel."
+    },
+    "echo_crossbody_bag": {
+      "name": "Echo Crossbody Bag",
+      "description": "Compact crossbody bag for hands-free convenience."
+    },
+    "echo_laptop_bag": {
+      "name": "Echo Laptop Bag",
+      "description": "Protective laptop bag with multiple compartments."
+    },
+    "echo_mini_backpack": {
+      "name": "Echo Mini Backpack",
+      "description": "Compact mini backpack for light everyday use."
+    },
+    "echo_waist_bag": {
+      "name": "Echo Waist Bag",
+      "description": "Trendy waist bag for hands-free mobility."
+    },
+     "echo_graphic_tee": {
+      "name": "Echo Graphic Tee",
+      "description": "Bold graphic print t-shirt with Echo artwork."
+    },
+    "echo_zip_hoodie": {
+      "name": "Echo Zip Hoodie",
+      "description": "Full-zip hoodie with premium cotton blend."
+    },
+    "echo_striped_tshirt": {
+      "name": "Echo Striped T-Shirt",
+      "description": "Classic striped design for casual style."
+    },
+    "echo_tank_top": {
+      "name": "Echo Tank Top",
+      "description": "Breathable tank top for active wear."
+    },
+    "echo_henley_shirt": {
+      "name": "Echo Henley Shirt",
+      "description": "Stylish henley with button placket."
+    },
+    "echo_crewneck_sweatshirt": {
+      "name": "Echo Crewneck Sweatshirt",
+      "description": "Classic crewneck for layering or solo wear."
+    },
+    "echo_pocket_tshirt": {
+      "name": "Echo Pocket T-Shirt",
+      "description": "Classic tee with chest pocket detail."
+    },
+    "echo_denim_jeans": {
+      "name": "Echo Denim Jeans",
+      "description": "Classic denim jeans with modern fit."
+    },
+    "echo_sweatpants": {
+      "name": "Echo Sweatpants",
+      "description": "Cozy sweatpants for ultimate comfort."
+    },
+  "echo_track_pants": {
+    "name": "Echo Track Pants",
+    "description": "Athletic track pants featuring sleek side stripes for a sporty look."
+  },
+  "echo_corduroy_pants": {
+    "name": "Echo Corduroy Pants",
+    "description": "Vintage-inspired corduroy trousers combining comfort and timeless style."
+  },
+  "echo_tech_pants": {
+    "name": "Echo Tech Pants",
+    "description": "Water-resistant technical pants built for performance in all conditions."
+  },
+  "echo_shorts": {
+    "name": "Echo Shorts",
+    "description": "Versatile and lightweight shorts designed for warm-weather comfort."
+  },
+  "echo_gym_bag": {
+    "name": "Echo Gym Bag",
+    "description": "Spacious gym bag with a dedicated shoe compartment for easy organization."
+  },
+  "echo_sling_bag": {
+    "name": "Echo Sling Bag",
+    "description": "Compact and functional sling bag designed for urban exploration."
+  },
+  "echo_weekend_bag": {
+    "name": "Echo Weekend Bag",
+    "description": "Stylish and durable travel bag ideal for weekend getaways."
+  },
+  "echo_camera_bag": {
+    "name": "Echo Camera Bag",
+    "description": "Protective camera bag designed to keep your equipment safe on the move."
+  },
+  "echo_rolltop_backpack": {
+    "name": "Echo Rolltop Backpack",
+    "description": "Weather-resistant rolltop backpack built for daily use and travel."
+  },
+  "echo_raglan_tee": {
+    "name": "Echo Raglan Tee",
+    "description": "Baseball-style raglan sleeve t-shirt"
+  },
+  "echo_quarter_zip": {
+    "name": "Echo Quarter Zip Pullover",
+    "description": "Versatile quarter zip for layering"
+  },
+  "echo_performance_tee": {
+    "name": "Echo Performance Tee",
+    "description": "Moisture-wicking athletic performance shirt"
+  },
+  "echo_flannel_shirt": {
+    "name": "Echo Flannel Shirt",
+    "description": "Classic flannel button-up shirt"
+  },
+  "echo_muscle_tee": {
+    "name": "Echo Muscle Tee",
+    "description": "Sleeveless muscle shirt for gym workouts"
+  },
+  "echo_ringer_tee": {
+    "name": "Echo Ringer Tee",
+    "description": "Retro ringer t-shirt with contrast trim"
+  },
+  "echo_thermal_shirt": {
+    "name": "Echo Thermal Shirt",
+    "description": "Waffle-knit thermal for cold weather"
+  },
+  "echo_windbreaker": {
+    "name": "Echo Windbreaker Jacket",
+    "description": "Lightweight windbreaker for outdoor activities"
+  },
+  "echo_button_down": {
+    "name": "Echo Button Down Shirt",
+    "description": "Classic button-down for smart casual wear"
+  },
+  "echo_turtleneck": {
+    "name": "Echo Turtleneck",
+    "description": "Sleek turtleneck for sophisticated style"
+  },
+  "echo_linen_pants": {
+    "name": "Echo Linen Pants",
+    "description": "Breathable linen trousers for summer"
+  },
+  "echo_pleated_trousers": {
+    "name": "Echo Pleated Trousers",
+    "description": "Tailored pleated trousers for formal occasions"
+  },
+  "echo_wide_leg_pants": {
+    "name": "Echo Wide Leg Pants",
+    "description": "Fashion-forward wide leg trousers"
+  },
+  "echo_bike_shorts": {
+    "name": "Echo Bike Shorts",
+    "description": "Comfortable bike shorts for active wear"
+  },
+  "echo_utility_pants": {
+    "name": "Echo Utility Pants",
+    "description": "Multi-pocket utility pants for everyday wear"
+  },
+  "echo_tapered_pants": {
+    "name": "Echo Tapered Pants",
+    "description": "Modern tapered fit for sleek silhouette"
+  },
+  "echo_cropped_pants": {
+    "name": "Echo Cropped Pants",
+    "description": "Ankle-length cropped trousers"
+  },
+  "echo_parachute_pants": {
+    "name": "Echo Parachute Pants",
+    "description": "Trendy parachute pants with drawstring details"
+  },
+    "echo_fanny_pack": {
+      "name": "Echo Fanny Pack",
+      "description": "Hands-free fanny pack for essentials"
+    },
+    "echo_briefcase": {
+      "name": "Echo Briefcase",
+      "description": "Professional leather briefcase"
+    },
+    "echo_bucket_bag": {
+      "name": "Echo Bucket Bag",
+      "description": "Trendy bucket-style bag"
+    },
+    "echo_hiking_backpack": {
+      "name": "Echo Hiking Backpack",
+      "description": "Large capacity backpack for hiking adventures"
+    },
+    "echo_shopping_bag": {
+      "name": "Echo Shopping Bag",
+      "description": "Reusable shopping bag with sturdy handles"
+    },
+    "echo_travel_organizer": {
+      "name": "Echo Travel Organizer",
+      "description": "Compact organizer for travel accessories"
+    },
+    "echo_toiletry_bag": {
+      "name": "Echo Toiletry Bag",
+      "description": "Waterproof toiletry bag for travel"
+    },
+    "echo_lunch_bag": {
+      "name": "Echo Lunch Bag",
+      "description": "Insulated lunch bag for meal prep"
+    },
+    "echo_beach_bag": {
+      "name": "Echo Beach Bag",
+      "description": "Spacious beach tote with waterproof lining"
+    },
+    "echo_laptop_sleeve": {
+      "name": "Echo Laptop Sleeve",
+      "description": "Slim protective sleeve for laptops"
+    }
+  },
+
+
+  "Footer": {
+    "brand": {
+      "title": "Echo Store",
+      "description": "Your one-stop shop for premium fashion with a minimalist and modern design."
+    },
+    "shop": {
+      "title": "Shop",
+      "allProducts": "All Products",
+      "shirts": "Shirts",
+      "trousers": "Trousers",
+      "bags": "Bags"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About Us",
+      "faq": "FAQ"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "edgarfezeu@gmail.com",
+      "phone": "+237 693 143 459",
+      "location": "Douala, Cameroon"
+    },
+    "copyright": "© 2026 Echo Store. All rights reserved."
+  
+  },
+
+  
+  "productPage": {
+    "home": "Home",
+    "reviews": "({count} reviews)",
+    "inStock": "In stock"
+  
+},
+
+  "productOption":{
+    "size": "Size",
+    "quantity": "Quantity",
+    "instock": "In stock"
+  },
+
+  "addToCart":{
+    "added": "Added to Cart!",
+    "addto": "Add to Cart"
+  },
+
+  
+  "productTabs": {
+    "tabs": {
+      "description": "Description",
+      "features": "Features",
+      "returns": "Returns"
+    },
+    "features": [
+      "Premium quality materials",
+      "Durable and long-lasting",
+      "Satisfaction guaranteed"
+    ],
+    "returns": {
+      "title": "Returns & Exchanges",
+      "items": [
+        "30-day return policy",
+        "Items must be in original condition"
+      ]
+    }
+  },
+
+  
+  "relatedProducts": {
+    "youMayAlsoLike": "You may also like",
+    "viewAll": "View all"
+  },
+
+
+  "cartSidebar": {
+    "shoppingCart": "Shopping Cart",
+    "closeCart": "Close cart",
+    "cartEmpty": "Your cart is empty",
+    "startAdding": "Start adding items to your cart",
+    "continueShopping": "Continue Shopping",
+    "color": "Color",
+    "size": "Size",
+    "total": "Total",
+    "proceedCheckout": "Proceed to Checkout",
+    "clearCart": "Clear Cart"
+  },
+
+    "checkoutPage":{
+  "checkout": "Checkout",
+  "orderSummary": "Order Summary",
+  "paymentSummary": "Payment Summary",
+  "subtotal": "Subtotal",
+  "shipping": "Shipping",
+  "free": "Free",
+  "tax": "Tax",
+  "calculatedCheckout": "Calculated at checkout",
+  "total": "Total",
+  "cartEmpty": "Your cart is empty",
+  "checkoutFailed": "Failed to create checkout session",
+  "noCheckoutUrl": "No checkout URL received from server",
+  "checkoutError": "An error occurred during checkout",
+  "removeItem": "Remove item",
+  "color": "Color",
+  "size": "Size",
+  "proceedPayment": "Proceed to Payment",
+  "processing": "Processing...",
+  "securePayment": "Secure payment powered by Stripe"
+    },
+
+   
+   
+  "aboutPage": {
+    "heroTitle": "About Echo Store",
+    "heroSubtitle": "Learn more about our mission, vision and our values",
+    "missionTitle": "Our Mission",
+    "missionText": "Deliver high-quality, minimalist fashion that enhances everyday life while supporting sustainable practices.",
+    "visionTitle": "Our Vision",
+    "visionText": "Become a global leader in sustainable fashion, known for timeless designs and excellent customer experiences.",
+    "valuesTitle": "Our Values",
+    "valuesText": "Integrity, sustainability, creativity, and customer satisfaction are at the heart of everything we do.",
+    "whoWeAreTitle": "Who We Are",
+    "whoWeAreText1": "Echo Store is a premium e-commerce platform committed to bringing minimalist, high-quality fashion to your doorstep. Founded with a passion for design and quality, our goal is to create products that elevate everyday style.",
+    "whoWeAreText2": "We believe in sustainable practices, fair sourcing, and providing our customers with exceptional experiences from browsing to delivery.",
+    "whoWeAreImageAlt": "About us"
+  },
+
+
+  
+  "contactPage": {
+    "heroTitle": "Get in Touch",
+    "heroSubtitle": "Have a question or feedback? We’d love to hear from you.",
+    "formTitle": "Send us a Message",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "selectTopic": "Select a topic",
+    "topicGeneral": "General Inquiry",
+    "topicOrder": "Order Support",
+    "topicProduct": "Product Question",
+    "topicFeedback": "Feedback",
+    "messagePlaceholder": "Your message...",
+    "sendMessage": "Send Message",
+    "sending": "Sending...",
+    "messageSent": "Message sent successfully!",
+    "messageFailed": "Failed to send message!",
+    "contactInfoTitle": "Contact Info",
+    "emailUsTitle": "Email Us",
+    "callUsTitle": "Call Us"
+  },
+
+
+  
+  "faqPage": {
+    "heroTitle": "Frequently Asked Questions",
+    "heroSubtitle": "Find answers to common questions about Echo Store. Can't find what you're looking for? Contact our support team.",
+    "contactButton": "Contact Us",
+    "paymentSecurity": {
+      "title": "Payment & Security",
+      "questions": {
+        "q1": {
+          "question": "What payment methods do you accept?",
+          "answer": "We accept all major credit cards (Visa, MasterCard, American Express, Discover), PayPal, Apple Pay, Google Pay, and Shop Pay. All payments are processed securely through our encrypted payment gateway."
+        },
+        "q2": {
+          "question": "Why was my payment declined?",
+          "answer": "Payment declines can happen for several reasons: insufficient funds, incorrect card details, or security blocks from your bank. Please verify your information and try again. If the issue persists, contact your bank or try a different payment method."
+        }
+      }
+    },
+    "accountSupport": {
+      "title": "Account & Support",
+      "questions": {
+        "q1": {
+          "question": "Do I need an account to place an order?",
+          "answer": "No, you can checkout as a guest. It only takes a minute to sign up!"
+        },
+        "q2": {
+          "question": "How can I contact customer service?",
+          "answer": "You can reach us via email at edgarfezeu@gmail.com, or call us at +237 693 14 34 59. View contact page. We typically respond to emails within 24 hours."
+        }
+      }
+    }
+  },
+
+
+  
+  
+  "productGrid": {
+    "categories": {
+      "all": "All",
+      "shirts": "Shirts",
+      "trousers": "Trousers",
+      "bags": "Bags"
+    },
+    "searchPlaceholder": "Search products by name...",
+    "foundProducts": "Found {count} product(s) matching “{query}”",
+    "clearSearch": "Clear search",
+    "noProducts": "No products found",
+    "tryAnother": "Try another category or search term."
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

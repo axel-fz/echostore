@@ -1,0 +1,510 @@
+{
+  "Header": {
+    "home": "Accueil",
+    "about": "À propos",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "cart": "Panier",
+    "menu": "Menu"
+  },
+
+  "Hero": {
+    "badge": "Nouvelle collection 2026",
+    "subtitle": "Là où le design minimaliste rencontre la qualité premium. Sublimez votre style au quotidien.",
+    "shopNow": "Acheter maintenant",
+
+    "stats": {
+      "products": "Produits",
+      "categories": "Catégories"
+    },
+
+    "categories": {
+      "tshirts": {
+        "name": "T-shirts",
+        "description": "Essentiels en coton premium"
+      },
+      "trousers": {
+        "name": "Pantalons",
+        "description": "Élégance parfaitement taillée"
+      },
+      "bags": {
+        "name": "Sacs",
+        "description": "Transportez avec style"
+      }
+    }
+  },
+
+   "categories": {
+    "shirts": "Chemises",
+    "trousers": "Pantalons",
+    "bags": "Sacs"
+  },
+
+
+  "products": {
+    "echo_circles_tshirt": {
+      "name": "T-shirt Echo Cercles",
+      "description": "T-shirt confortable avec le design iconique des cercles Echo."
+    },
+    "echo_hoodie": {
+      "name": "Hoodie Echo",
+      "description": "Hoodie confortable, parfait pour toutes les saisons."
+    },
+    "echo_oversized_tee": {
+      "name": "T-shirt Oversize Echo",
+      "description": "T-shirt oversize au style streetwear."
+    },
+    "echo_vneck_tshirt": {
+      "name": "T-shirt Col V Echo",
+      "description": "Design classique à col en V pour un usage quotidien."
+    },
+    "echo_long_sleeve_shirt": {
+      "name": "T-shirt Manches Longues Echo",
+      "description": "T-shirt à manches longues confortable pour les temps plus frais."
+    },
+    "echo_polo_shirt": {
+      "name": "Polo Echo",
+      "description": "Polo chic et décontracté avec la signature Echo."
+    },
+    "echo_classic_trousers": {
+      "name": "Pantalon Classique Echo",
+      "description": "Pantalon confortable adapté aux styles casual et habillés."
+    },
+    "echo_slim_fit_trousers": {
+      "name": "Pantalon Slim Fit Echo",
+      "description": "Pantalon slim moderne en tissu premium."
+    },
+    "echo_drawstring_bag": {
+      "name": "Sac à Cordon Echo",
+      "description": "Sac léger à cordon pour les essentiels du quotidien."
+    },
+    "echo_canvas_tote_bag": {
+      "name": "Sac Cabas en Toile Echo",
+      "description": "Sac cabas réutilisable en toile avec branding Echo."
+    },
+    "echo_backpack": {
+      "name": "Sac à Dos Echo",
+      "description": "Sac à dos durable pour le travail et les voyages."
+    },
+    "echo_messenger_bag": {
+      "name": "Sac Messenger Echo",
+      "description": "Sac messenger professionnel pour un usage quotidien."
+    },
+    "echo_duffle_bag": {
+      "name": "Sac de Sport Echo",
+      "description": "Sac spacieux idéal pour le sport et les voyages."
+    },
+    "echo_crossbody_bag": {
+      "name": "Sac Bandoulière Echo",
+      "description": "Sac compact pour un port mains libres."
+    },
+    "echo_laptop_bag": {
+      "name": "Sac Ordinateur Echo",
+      "description": "Sac de protection pour ordinateur avec plusieurs compartiments."
+    },
+    "echo_mini_backpack": {
+      "name": "Mini Sac à Dos Echo",
+      "description": "Mini sac à dos compact pour un usage quotidien léger."
+    },
+    "echo_waist_bag": {
+      "name": "Sac Banane Echo",
+      "description": "Sac banane tendance pour une mobilité mains libres."
+    },
+    "echo_graphic_tee": {
+      "name": "T-shirt Graphique Echo",
+      "description": "T-shirt à imprimé graphique audacieux avec illustration Echo."
+    },
+    "echo_zip_hoodie": {
+      "name": "Hoodie Zippé Echo",
+      "description": "Hoodie zippé en coton premium."
+    },
+    "echo_striped_tshirt": {
+      "name": "T-shirt Rayé Echo",
+      "description": "Design rayé classique pour un style décontracté."
+    },
+    "echo_tank_top": {
+      "name": "Débardeur Echo",
+      "description": "Débardeur respirant pour les activités sportives."
+    },
+    "echo_henley_shirt": {
+      "name": "T-shirt Henley Echo",
+      "description": "Henley élégant avec patte de boutonnage."
+    },
+    "echo_crewneck_sweatshirt": {
+      "name": "Sweat Col Rond Echo",
+      "description": "Sweat classique idéal en superposition ou seul."
+    },
+    "echo_pocket_tshirt": {
+      "name": "T-shirt à Poche Echo",
+      "description": "T-shirt classique avec poche poitrine."
+    },
+    "echo_denim_jeans": {
+      "name": "Jean Denim Echo",
+      "description": "Jean en denim classique à coupe moderne."
+    },
+    "echo_sweatpants": {
+      "name": "Pantalon de Jogging Echo",
+      "description": "Jogging confortable pour un maximum de détente."
+    },
+    "echo_track_pants": {
+      "name": "Pantalon de Sport Echo",
+      "description": "Pantalon athlétique avec bandes latérales élégantes."
+    },
+    "echo_corduroy_pants": {
+      "name": "Pantalon en Velours Côtelé Echo",
+      "description": "Pantalon d’inspiration vintage alliant confort et style intemporel."
+    },
+    "echo_tech_pants": {
+      "name": "Pantalon Technique Echo",
+      "description": "Pantalon technique déperlant conçu pour la performance."
+    },
+    "echo_shorts": {
+      "name": "Short Echo",
+      "description": "Short léger et polyvalent pour les journées chaudes."
+    },
+    "echo_gym_bag": {
+      "name": "Sac de Sport Echo",
+      "description": "Sac de sport spacieux avec compartiment dédié aux chaussures."
+    },
+    "echo_sling_bag": {
+      "name": "Sac Sling Echo",
+      "description": "Sac sling compact et fonctionnel pour la ville."
+    },
+    "echo_weekend_bag": {
+      "name": "Sac Week-end Echo",
+      "description": "Sac de voyage élégant et robuste pour les escapades."
+    },
+    "echo_camera_bag": {
+      "name": "Sac Photo Echo",
+      "description": "Sac de protection pour appareil photo en déplacement."
+    },
+    "echo_rolltop_backpack": {
+      "name": "Sac à Dos Rolltop Echo",
+      "description": "Sac rolltop résistant aux intempéries pour le quotidien."
+    },
+    "echo_raglan_tee": {
+      "name": "T-shirt Raglan Echo",
+      "description": "T-shirt style baseball à manches raglan."
+    },
+    "echo_quarter_zip": {
+      "name": "Pull Col Zippé Echo",
+      "description": "Pull polyvalent à demi-zip idéal pour les superpositions."
+    },
+    "echo_performance_tee": {
+      "name": "T-shirt Performance Echo",
+      "description": "T-shirt technique respirant pour le sport."
+    },
+    "echo_flannel_shirt": {
+      "name": "Chemise en Flanelle Echo",
+      "description": "Chemise boutonnée en flanelle classique."
+    },
+    "echo_muscle_tee": {
+      "name": "Débardeur Musculation Echo",
+      "description": "Débardeur sans manches pour l’entraînement."
+    },
+    "echo_ringer_tee": {
+      "name": "T-shirt Ringer Echo",
+      "description": "T-shirt rétro avec finitions contrastées."
+    },
+    "echo_thermal_shirt": {
+      "name": "T-shirt Thermique Echo",
+      "description": "T-shirt thermique gaufré pour temps froid."
+    },
+    "echo_windbreaker": {
+      "name": "Coupe-vent Echo",
+      "description": "Coupe-vent léger pour les activités extérieures."
+    },
+    "echo_button_down": {
+      "name": "Chemise Boutonnée Echo",
+      "description": "Chemise classique pour un style chic décontracté."
+    },
+    "echo_turtleneck": {
+      "name": "Col Roulé Echo",
+      "description": "Col roulé élégant pour un style sophistiqué."
+    },
+    "echo_linen_pants": {
+      "name": "Pantalon en Lin Echo",
+      "description": "Pantalon en lin respirant pour l’été."
+    },
+    "echo_pleated_trousers": {
+      "name": "Pantalon Plissé Echo",
+      "description": "Pantalon plissé ajusté pour les occasions formelles."
+    },
+    "echo_wide_leg_pants": {
+      "name": "Pantalon Large Echo",
+      "description": "Pantalon à jambe large au style moderne."
+    },
+    "echo_bike_shorts": {
+      "name": "Short Cycliste Echo",
+      "description": "Short cycliste confortable pour activités sportives."
+    },
+    "echo_utility_pants": {
+      "name": "Pantalon Utilitaire Echo",
+      "description": "Pantalon utilitaire à multiples poches."
+    },
+    "echo_tapered_pants": {
+      "name": "Pantalon Fuselé Echo",
+      "description": "Coupe fuselée moderne pour une silhouette élégante."
+    },
+    "echo_cropped_pants": {
+      "name": "Pantalon Court Echo",
+      "description": "Pantalon raccourci longueur cheville."
+    },
+    "echo_parachute_pants": {
+      "name": "Pantalon Parachute Echo",
+      "description": "Pantalon parachute tendance avec cordons de serrage."
+    },
+    "echo_fanny_pack": {
+      "name": "Sac Banane Echo",
+      "description": "Sac banane pratique pour garder l’essentiel à portée de main."
+    },
+    "echo_briefcase": {
+      "name": "Malette Echo",
+      "description": "Malette professionnelle en cuir."
+    },
+    "echo_bucket_bag": {
+      "name": "Sac Seau Echo",
+      "description": "Sac seau tendance."
+    },
+    "echo_hiking_backpack": {
+      "name": "Sac à Dos Randonnée Echo",
+      "description": "Sac à dos grande capacité pour la randonnée."
+    },
+    "echo_shopping_bag": {
+      "name": "Sac de Courses Echo",
+      "description": "Sac réutilisable avec poignées renforcées."
+    },
+    "echo_travel_organizer": {
+      "name": "Organisateur de Voyage Echo",
+      "description": "Organisateur compact pour accessoires de voyage."
+    },
+    "echo_toiletry_bag": {
+      "name": "Trousse de Toilette Echo",
+      "description": "Trousse de toilette imperméable pour le voyage."
+    },
+    "echo_lunch_bag": {
+      "name": "Sac Repas Echo",
+      "description": "Sac isotherme pour les repas."
+    },
+    "echo_beach_bag": {
+      "name": "Sac de Plage Echo",
+      "description": "Grand sac de plage avec doublure imperméable."
+    },
+    "echo_laptop_sleeve": {
+      "name": "Housse Ordinateur Echo",
+      "description": "Housse fine et protectrice pour ordinateur portable."
+    }
+  
+},
+
+  "Footer": {
+    "brand": {
+      "title": "Echo Store",
+      "description": "Votre boutique unique pour une mode premium au design minimaliste et moderne."
+    },
+    "shop": {
+      "title": "Boutique",
+      "allProducts": "Tous les produits",
+      "shirts": "Chemises",
+      "trousers": "Pantalons",
+      "bags": "Sacs"
+    },
+    "company": {
+      "title": "Entreprise",
+      "about": "À propos",
+      "faq": "FAQ"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "edgarfezeu@gmail.com",
+      "phone": "+237 693 143 459",
+      "location": "Douala, Cameroun"
+    },
+    "copyright": "© 2026 Echo Store. Tous droits réservés."
+  },
+  
+  "productPage": {
+    "home": "Accueil",
+    "reviews": "({count} avis)",
+    "inStock": "En stock"
+  
+},
+ "productOption":{
+    "size": "taille",
+    "quantity": "Quantité",
+    "instock": "En stock"
+
+  },
+
+  "addToCart": {
+  "added": "Déja ajouté au panier !",
+  "addto": "Ajouter au panier"
+},
+
+
+  "productTabs": {
+    "tabs": {
+      "description": "Description",
+      "features": "Caractéristiques",
+      "returns": "Retours"
+    },
+    "features": [
+      "Matériaux de qualité supérieure",
+      "Durable et résistant",
+      "Satisfaction garantie"
+    ],
+    "returns": {
+      "title": "Retours et échanges",
+      "items": [
+        "Politique de retour sous 30 jours",
+        "Les articles doivent être en état d'origine"
+      ]
+    }
+  },
+
+  "relatedProducts": {
+    "youMayAlsoLike": "Vous aimerez aussi",
+    "viewAll": "Voir tout"
+  },
+
+  
+  "cartSidebar": {
+    "shoppingCart": "Panier",
+    "closeCart": "Fermer le panier",
+    "cartEmpty": "Votre panier est vide",
+    "startAdding": "Commencez à ajouter des articles à votre panier",
+    "continueShopping": "Continuer vos achats",
+    "color": "Couleur",
+    "size": "Taille",
+    "total": "Total",
+    "proceedCheckout": "Passer à la caisse",
+    "clearCart": "Vider le panier"
+  },
+
+  "checkoutPage":{
+  "checkout": "Paiement",
+  "orderSummary": "Résumé de la commande",
+  "paymentSummary": "Résumé du paiement",
+  "subtotal": "Sous-total",
+  "shipping": "Livraison",
+  "free": "Gratuit",
+  "tax": "Taxe",
+  "calculatedCheckout": "Calculée lors du paiement",
+  "total": "Total",
+  "cartEmpty": "Votre panier est vide",
+  "checkoutFailed": "Échec de la création de la session de paiement",
+  "noCheckoutUrl": "Aucune URL de paiement reçue du serveur",
+  "checkoutError": "Une erreur est survenue lors du paiement",
+  "removeItem": "Supprimer l'article",
+  "color": "Couleur",
+  "size": "Taille",
+  "proceedPayment": "Passer au paiement",
+  "processing": "Traitement...",
+  "securePayment": "Paiement sécurisé via Stripe"
+  },
+
+
+
+  "aboutPage": {
+    "heroTitle": "À propos d'Echo Store",
+    "heroSubtitle": "En savoir plus sur notre mission, notre vision et nos valeurs",
+    "missionTitle": "Notre Mission",
+    "missionText": "Proposer une mode minimaliste et de haute qualité qui améliore le quotidien tout en soutenant des pratiques durables.",
+    "visionTitle": "Notre Vision",
+    "visionText": "Devenir un leader mondial de la mode durable, reconnu pour ses designs intemporels et ses expériences clients excellentes.",
+    "valuesTitle": "Nos Valeurs",
+    "valuesText": "Intégrité, durabilité, créativité et satisfaction client sont au cœur de tout ce que nous faisons.",
+    "whoWeAreTitle": "Qui nous sommes",
+    "whoWeAreText1": "Echo Store est une plateforme e-commerce premium dédiée à la mode minimaliste et de haute qualité. Fondée par une passion pour le design et la qualité, notre objectif est de créer des produits qui élèvent le style quotidien.",
+    "whoWeAreText2": "Nous croyons en des pratiques durables, un approvisionnement équitable et offrons à nos clients des expériences exceptionnelles du parcours d'achat à la livraison.",
+    "whoWeAreImageAlt": "À propos de nous"
+  },
+
+
+  
+  "contactPage": {
+    "heroTitle": "Contactez-nous",
+    "heroSubtitle": "Vous avez une question ou un retour ? Nous serions ravis de vous entendre.",
+    "formTitle": "Envoyez-nous un message",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Adresse e-mail",
+    "selectTopic": "Sélectionnez un sujet",
+    "topicGeneral": "Demande générale",
+    "topicOrder": "Support commande",
+    "topicProduct": "Question produit",
+    "topicFeedback": "Retour d'expérience",
+    "messagePlaceholder": "Votre message...",
+    "sendMessage": "Envoyer le message",
+    "sending": "Envoi...",
+    "messageSent": "Message envoyé avec succès !",
+    "messageFailed": "Échec de l'envoi du message !",
+    "contactInfoTitle": "Infos de contact",
+    "emailUsTitle": "Envoyez-nous un e-mail",
+    "callUsTitle": "Appelez-nous"
+  },
+
+  
+  "faqPage": {
+    "heroTitle": "Questions Fréquemment Posées",
+    "heroSubtitle": "Trouvez des réponses aux questions courantes sur Echo Store. Vous ne trouvez pas ce que vous cherchez ? Contactez notre équipe support.",
+    "contactButton": "Contactez-nous",
+    "paymentSecurity": {
+      "title": "Paiement & Sécurité",
+      "questions": {
+        "q1": {
+          "question": "Quels moyens de paiement acceptez-vous ?",
+          "answer": "Nous acceptons toutes les principales cartes de crédit (Visa, MasterCard, American Express, Discover), PayPal, Apple Pay, Google Pay et Shop Pay. Tous les paiements sont traités en toute sécurité via notre passerelle de paiement cryptée."
+        },
+        "q2": {
+          "question": "Pourquoi mon paiement a-t-il été refusé ?",
+          "answer": "Les paiements peuvent être refusés pour plusieurs raisons : fonds insuffisants, informations de carte incorrectes ou blocages de sécurité de votre banque. Veuillez vérifier vos informations et réessayer. Si le problème persiste, contactez votre banque ou essayez un autre moyen de paiement."
+        }
+      }
+    },
+    "accountSupport": {
+      "title": "Compte & Support",
+      "questions": {
+        "q1": {
+          "question": "Ai-je besoin d'un compte pour passer une commande ?",
+          "answer": "Non, vous pouvez passer commande en tant qu'invité. L'inscription ne prend qu'une minute !"
+        },
+        "q2": {
+          "question": "Comment puis-je contacter le service client ?",
+          "answer": "Vous pouvez nous joindre par e-mail à edgarfezeu@gmail.com, ou nous appeler au +237 693 14 34 59. Voir la page de contact. Nous répondons généralement aux e-mails sous 24 heures."
+        }
+      }
+    }
+  },
+
+
+ 
+  "productGrid": {
+    "categories": {
+      "all": "Tous",
+      "shirts": "Chemises",
+      "trousers": "Pantalons",
+      "bags": "Sacs"
+    },
+    "searchPlaceholder": "Rechercher des produits par nom...",
+    "foundProducts": "{count} produit(s) trouvé(s) pour “{query}”",
+    "clearSearch": "Effacer la recherche",
+    "noProducts": "Aucun produit trouvé",
+    "tryAnother": "Essayez une autre catégorie ou un autre terme de recherche."
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
